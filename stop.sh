@@ -17,4 +17,4 @@ else
     echo "No running containers found."
 fi
 
-echo "hi"
+
